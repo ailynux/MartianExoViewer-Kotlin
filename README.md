@@ -2,6 +2,14 @@
 
 MartianExoViewer-Kotlin is an Android app built with Kotlin, focused on retrieving data from Mars using an API. The app provides users with a unique experience, immersing them in the world of Mars with varying tones of Martians from another world.
 
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/ailynux/MartianExoViewer-Kotlin/assets/95152597/ff405f5b-f552-4b0f-9f8e-fec854e3662f" alt="screenshot_marsappexo2"></td>
+    <td align="center"><img src="https://github.com/ailynux/MartianExoViewer-Kotlin/assets/95152597/81e4b584-e47e-458a-bac3-b107d860d59a" alt="screenshot_marsappexo1"></td>
+  </tr>
+</table>
+
+
 ## Features
 
 - Retrieves data from Mars API
