@@ -1,0 +1,11 @@
+<!--strings files-->
+<resources>
+    <string name="username">"🌟 (^_^)🌟💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫 🌟 (_@_) 🌟 🌟 (^_^)🌟 💫 Ailyn 💫 🌟 (^_^)🌟 🌟 (_-_) 🌟 # (˚▽˚)(˚▽˚) # ^ 🌟 * 💫 * 🌈 ^ 🌟 (^_^) 💫💫💫💫💫💫💫💫💫 🌟 (*^_^*)"</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="mars_photo">Mars photo</string>
+    <string name="introductory_image_description">Description of the introductory image</string>
+    <string name="app_info">This is the information about the app.</string>
+</resources>
+
